@@ -1,14 +1,12 @@
-## data-representation-project
+## mls-assessment
 
 #### Author
 Daria Sep (G00411221@atu.ie)
 #### Course Details
 Course: Higher Diploma in Computing in Data Analytics
 
-Module: Data Representation
-
-Lecturer: Andrew Beatty
+Module: Machine Learning and Statistics
 
 ## Description
-This repository is a submission of the project for the Data Representation module. 
+This repository is a submission of the project for the Machine Learning and Statistic Project. 
 
